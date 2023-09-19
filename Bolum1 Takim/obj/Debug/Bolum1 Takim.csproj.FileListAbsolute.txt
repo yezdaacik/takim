@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\bin\Debug\Bolum1 Takim.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\bin\Debug\Bolum1 Takim.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\bin\Debug\Bolum1 Takim.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1_Takim.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1_Takim.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Bolum1 Takim\Bolum1 Takim\obj\Debug\Bolum1 Takim.pdb
